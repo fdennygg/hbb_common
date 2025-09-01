@@ -100,8 +100,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["cz.fdenny.top"];
-pub const RS_PUB_KEY: &str = "BYssCv3M+BOJucpKyTUdiz7sDbPANUa7OxTO7HZx6qo=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.fuding.gov"];
+pub const RS_PUB_KEY: &str = "5YFqvHbvfBFOpvtwvKgeiD8SJbHU+m8stPWysIkKyTZQjC36/M1WclR+JlWOu77rfYcYXKJmuntf2o6vHpDnlg==";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
